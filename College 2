@@ -5679,13 +5679,13 @@
 				}
 			],
 			"confFullName": "Sun Belt Conference",
-			"confPrestige": "44",
+			"confPrestige": "25",
 			"confName": "SBC"
 		},
 		{
 			"confTeams": [{
 					"abbreviation": "CMU",
-					"prestige": "45",
+					"prestige": "25",
 					"hexColor": "#6A0032",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -5732,11 +5732,11 @@
 						"contractYear": "0"
 					},
 					"name": "Central Michigan Chippewas",
-					"state": "Michigan"
+					"state": "American Samoa"
 				},
 				{
 					"abbreviation": "BUFF",
-					"prestige": "45",
+					"prestige": "25",
 					"hexColor": "#005BBB",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -5783,11 +5783,11 @@
 						"contractYear": "0"
 					},
 					"name": "Buffalo Bulls",
-					"state": "New York"
+					"state": "American Samoa"
 				},
 				{
 					"abbreviation": "TOL",
-					"prestige": "45",
+					"prestige": "25",
 					"hexColor": "#15397F",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -5834,11 +5834,11 @@
 						"contractYear": "0"
 					},
 					"name": "Toledo Rockets",
-					"state": "Ohio"
+					"state": "American Samoa"
 				},
 				{
 					"abbreviation": "WMU",
-					"prestige": "49",
+					"prestige": "25",
 					"hexColor": "#6C4023",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -5885,11 +5885,11 @@
 						"contractYear": "0"
 					},
 					"name": "Western Michigan Broncos",
-					"state": "Michigan"
+					"state": "American Samoa"
 				},
 				{
 					"abbreviation": "OHIO",
-					"prestige": "35",
+					"prestige": "25",
 					"hexColor": "#00694E",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -5936,11 +5936,11 @@
 						"contractYear": "0"
 					},
 					"name": "Ohio Bobcats",
-					"state": "Ohio"
+					"state": "American Samoa"
 				},
 				{
 					"abbreviation": "MU",
-					"prestige": "40",
+					"prestige": "25",
 					"hexColor": "#B61E2E",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -5987,11 +5987,11 @@
 						"contractYear": "0"
 					},
 					"name": "Miami OH Redhawks",
-					"state": "Ohio"
+					"state": "American Samoa"
 				},
 				{
 					"abbreviation": "BALL",
-					"prestige": "50",
+					"prestige": "25",
 					"hexColor": "#002664",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -6038,11 +6038,11 @@
 						"contractYear": "0"
 					},
 					"name": "Ball State Cardinals",
-					"state": "Indiana"
+					"state": "American Samoa"
 				},
 				{
 					"abbreviation": "EMU",
-					"prestige": "35",
+					"prestige": "25",
 					"hexColor": "#006633",
 					"offCoordinator": {
 						"contractLength": "1",
@@ -6089,11 +6089,11 @@
 						"contractYear": "0"
 					},
 					"name": "Eastern Michigan Eagles",
-					"state": "Michigan"
+					"state": "American Samoa"
 				},
 				{
 					"abbreviation": "Akron",
-					"prestige": "30",
+					"prestige": "25",
 					"hexColor": "#041E42",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -6140,7 +6140,7 @@
 						"contractYear": "0"
 					},
 					"name": "Akron Zips",
-					"state": "Ohio"
+					"state": "American Samoa"
 				},
 				{
 					"abbreviation": "BGU",
