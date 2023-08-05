@@ -308,7 +308,7 @@
 				},
 				{
 					"abbreviation": "MISS",
-					"prestige": "82",
+					"prestige": "95",
 					"hexColor": "#14213D",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -620,7 +620,7 @@
 				},
 				{
 					"abbreviation": "MSU",
-					"prestige": "70",
+					"prestige": "75",
 					"hexColor": "#18453B",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -671,7 +671,7 @@
 				},
 				{
 					"abbreviation": "WISC",
-					"prestige": "77",
+					"prestige": "75",
 					"hexColor": "#C5050C",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -773,7 +773,7 @@
 				},
 				{
 					"abbreviation": "IOWA",
-					"prestige": "74",
+					"prestige": "70",
 					"hexColor": "#FFCD00",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2474,7 +2474,7 @@
 				},
 				{
 					"abbreviation": "UCLA",
-					"prestige": "80",
+					"prestige": "95",
 					"hexColor": "#2D68C4",
 					"offCoordinator": {
 						"contractLength": "3",
