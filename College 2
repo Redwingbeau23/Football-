@@ -4653,7 +4653,7 @@
 		{
 			"confTeams": [{
 					"abbreviation": "MRSH",
-					"prestige": "50",
+					"prestige": "25",
 					"hexColor": "#00B140",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4700,11 +4700,11 @@
 						"contractYear": "0"
 					},
 					"name": "Marshall Thundering Herd",
-					"state": "West Virginia"
+					"state": "Wyoming"
 				},
 				{
 					"abbreviation": "UAB",
-					"prestige": "60",
+					"prestige": "25",
 					"hexColor": "#006341",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4751,11 +4751,11 @@
 						"contractYear": "0"
 					},
 					"name": "UAB Blazers",
-					"state": "Alabama"
+					"state": "Wyoming"
 				},
 				{
 					"abbreviation": "LTU",
-					"prestige": "55",
+					"prestige": "25",
 					"hexColor": "#002F8B",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4802,11 +4802,11 @@
 						"contractYear": "0"
 					},
 					"name": "Louisiana Tech Bulldogs",
-					"state": "Louisiana"
+					"state": "Wyoming"
 				},
 				{
 					"abbreviation": "FAU",
-					"prestige": "55",
+					"prestige": "25",
 					"hexColor": "#CC0000",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4853,11 +4853,11 @@
 						"contractYear": "0"
 					},
 					"name": "FAU Owls",
-					"state": "Florida"
+					"state": "Wyoming"
 				},
 				{
 					"abbreviation": "CHAR",
-					"prestige": "40",
+					"prestige": "25",
 					"hexColor": "#046A38",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4904,11 +4904,11 @@
 						"contractYear": "0"
 					},
 					"name": "Charlotte Forty Niners",
-					"state": "North Carolina"
+					"state": "Wyoming"
 				},
 				{
 					"abbreviation": "WKU",
-					"prestige": "39",
+					"prestige": "25",
 					"hexColor": "#C60C30",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4955,11 +4955,11 @@
 						"contractYear": "0"
 					},
 					"name": "Western Kentucky Hilltoppers",
-					"state": "Kentucky"
+					"state": "Wyoming"
 				},
 				{
 					"abbreviation": "FIU",
-					"prestige": "30",
+					"prestige": "25",
 					"hexColor": "#081E3F",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -5006,11 +5006,11 @@
 						"contractYear": "0"
 					},
 					"name": "FIU Panthers",
-					"state": "Florida"
+					"state": "Wyoming"
 				},
 				{
 					"abbreviation": "UTSA",
-					"prestige": "40",
+					"prestige": "25",
 					"hexColor": "#F15A22",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -5057,11 +5057,11 @@
 						"contractYear": "0"
 					},
 					"name": "UTSA Roadrunners",
-					"state": "Texas"
+					"state": "Wyoming"
 				},
 				{
 					"abbreviation": "SMS",
-					"prestige": "35",
+					"prestige": "25",
 					"hexColor": "#FFAB00",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -5108,11 +5108,11 @@
 						"contractYear": "0"
 					},
 					"name": "Southern Miss Golden Eagles",
-					"state": "Mississippi"
+					"state": "Wyoming"
 				},
 				{
 					"abbreviation": "MTSU",
-					"prestige": "30",
+					"prestige": "25",
 					"hexColor": "#0066CC",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -5159,17 +5159,17 @@
 						"contractYear": "0"
 					},
 					"name": "Middle Tennessee State Blue Raiders",
-					"state": "Tennessee"
+					"state": "Wyoming"
 				}
 			],
 			"confFullName": "Conference USA",
-			"confPrestige": "41",
+			"confPrestige": "25",
 			"confName": "CUSA"
 		},
 		{
 			"confTeams": [{
 					"abbreviation": "APST",
-					"prestige": "68",
+					"prestige": "25",
 					"hexColor": "#FFCC00",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -5216,11 +5216,11 @@
 						"contractYear": "0"
 					},
 					"name": "Appalachian State Mountaineers",
-					"state": "North Carolina"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "ULL",
-					"prestige": "55",
+					"prestige": "25",
 					"hexColor": "#CE181E",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -5267,11 +5267,11 @@
 						"contractYear": "0"
 					},
 					"name": "Louisiana Lafayette Cajuns",
-					"state": "Louisiana"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "CCU",
-					"prestige": "50",
+					"prestige": "25",
 					"hexColor": "#006F71",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -5318,11 +5318,11 @@
 						"contractYear": "0"
 					},
 					"name": "Coastal Carolina Chanticleers",
-					"state": "South Carolina"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "GST",
-					"prestige": "47",
+					"prestige": "25",
 					"hexColor": "#0039A6",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -5369,11 +5369,11 @@
 						"contractYear": "0"
 					},
 					"name": "Georgia State Panthers",
-					"state": "Georgia"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "GSU",
-					"prestige": "49",
+					"prestige": "25",
 					"hexColor": "#011E41",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -5420,11 +5420,11 @@
 						"contractYear": "0"
 					},
 					"name": "Georgia Southern Eagles",
-					"state": "Georgia"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "TROY",
-					"prestige": "45",
+					"prestige": "25",
 					"hexColor": "#8A2432",
 					"offCoordinator": {
 						"contractLength": "1",
@@ -5471,11 +5471,11 @@
 						"contractYear": "0"
 					},
 					"name": "Troy Trojans",
-					"state": "Alabama"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "ARST",
-					"prestige": "40",
+					"prestige": "25",
 					"hexColor": "#CC092F",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -5522,11 +5522,11 @@
 						"contractYear": "0"
 					},
 					"name": "Arkansas State Red Wolves",
-					"state": "Arkansas"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "TXST",
-					"prestige": "34",
+					"prestige": "25",
 					"hexColor": "#501214",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -5573,11 +5573,11 @@
 						"contractYear": "0"
 					},
 					"name": "Texas State Bobcats",
-					"state": "Texas"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "USA",
-					"prestige": "30",
+					"prestige": "25",
 					"hexColor": "#00205B",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -5624,11 +5624,11 @@
 						"contractYear": "0"
 					},
 					"name": "South Alabama Jaguars",
-					"state": "Alabama"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "ULM",
-					"prestige": "20",
+					"prestige": "25",
 					"hexColor": "#800029",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -5675,7 +5675,7 @@
 						"contractYear": "0"
 					},
 					"name": "Louisiana Monroe Warhawks",
-					"state": "Louisiana"
+					"state": "Alaska"
 				}
 			],
 			"confFullName": "Sun Belt Conference",
