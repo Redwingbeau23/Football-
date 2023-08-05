@@ -6144,7 +6144,7 @@
 				},
 				{
 					"abbreviation": "BGU",
-					"prestige": "20",
+					"prestige": "25",
 					"hexColor": "#FE5000",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -6191,11 +6191,11 @@
 						"contractYear": "0"
 					},
 					"name": "Bowling Green Falcons",
-					"state": "Ohio"
+					"state": "American Samoa"
 				}
 			],
 			"confFullName": "Mid American Conference",
-			"confPrestige": "40",
+			"confPrestige": "25",
 			"confName": "MAC"
 		}
 	],
