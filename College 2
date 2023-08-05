@@ -2684,7 +2684,7 @@
 				},
 				{
 					"abbreviation": "UNC",
-					"prestige": "80",
+					"prestige": "95",
 					"hexColor": "#7BAFD4",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4137,7 +4137,7 @@
 		{
 			"confTeams": [{
 					"abbreviation": "UTAH",
-					"prestige": "78",
+					"prestige": "95",
 					"hexColor": "#CC0000",
 					"offCoordinator": {
 						"contractLength": "3",
