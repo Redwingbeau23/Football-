@@ -3411,7 +3411,7 @@
 
 				{
 					"abbreviation": "CUSE",
-					"prestige": "60",
+					"prestige": "54",
 					"hexColor": "#D44500",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3462,7 +3462,7 @@
 				},
 				{
 					"abbreviation": "RUT",
-					"prestige": "55",
+					"prestige": "48",
 					"hexColor": "#CC0033",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3513,7 +3513,7 @@
 				},
 				{
 					"abbreviation": "BC",
-					"prestige": "58",
+					"prestige": "52",
 					"hexColor": "#98002E",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4188,7 +4188,7 @@
 				},
 				{
 					"abbreviation": "BYU",
-					"prestige": "65",
+					"prestige": "57",
 					"hexColor": "#002E5D",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4239,7 +4239,7 @@
 				},
 				{
 					"abbreviation": "UCF",
-					"prestige": "65",
+					"prestige": "57",
 					"hexColor": "#BA9B37",
 					"offCoordinator": {
 						"contractLength": "3",
