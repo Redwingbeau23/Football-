@@ -3411,7 +3411,7 @@
 
 				{
 					"abbreviation": "CUSE",
-					"prestige": "68",
+					"prestige": "60",
 					"hexColor": "#D44500",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3462,7 +3462,7 @@
 				},
 				{
 					"abbreviation": "RUT",
-					"prestige": "65",
+					"prestige": "55",
 					"hexColor": "#CC0033",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3513,7 +3513,7 @@
 				},
 				{
 					"abbreviation": "BC",
-					"prestige": "66",
+					"prestige": "58",
 					"hexColor": "#98002E",
 					"offCoordinator": {
 						"contractLength": "3",
