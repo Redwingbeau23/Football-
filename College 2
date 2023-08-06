@@ -2991,9 +2991,9 @@
 					"state": "North Carolina"
 				},
 {
-					"abbreviation": "CIN",
+					"abbreviation": "WVU",
 					"prestige": "69",
-					"hexColor": "#000000",
+					"hexColor": "#002855",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
@@ -3035,11 +3035,11 @@
 						"hometown": "Fort Valley",
 						"ratTalent": "90",
 						"baselinePrestige": "75",
-						"name": "Luke Fickell",
+						"name": "Luke Douglas",
 						"contractYear": "0"
 					},
-					"name": "Cincinnati Bearcats",
-					"state": "Ohio"
+					"name": "West Virginia Mountaineers",
+					"state": "West Virginia"
 				},
 
 				
@@ -3307,9 +3307,9 @@
 					"state": "American Samoa"
 				},
 				{
-					"abbreviation": "WVU",
-					"prestige": "68",
-					"hexColor": "#002855",
+					"abbreviation": "CIN",
+					"prestige": "45",
+					"hexColor": "#000000",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
@@ -3354,8 +3354,8 @@
 						"name": "Neal Brown",
 						"contractYear": "0"
 					},
-					"name": "West Virginia Mountaineers",
-					"state": "West Virginia"
+					"name": "Cincinnati Bearcats",
+					"state": "Ohio"
 				},
 				{
 					"abbreviation": "SMU",
