@@ -4700,7 +4700,7 @@
 						"contractYear": "0"
 					},
 					"name": "Marshall Thundering Herd",
-					"state": "Wyoming"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "UAB",
@@ -4751,7 +4751,7 @@
 						"contractYear": "0"
 					},
 					"name": "UAB Blazers",
-					"state": "Wyoming"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "LTU",
@@ -4802,7 +4802,7 @@
 						"contractYear": "0"
 					},
 					"name": "Louisiana Tech Bulldogs",
-					"state": "Wyoming"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "FAU",
@@ -4853,7 +4853,7 @@
 						"contractYear": "0"
 					},
 					"name": "FAU Owls",
-					"state": "Wyoming"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "CHAR",
@@ -4904,7 +4904,7 @@
 						"contractYear": "0"
 					},
 					"name": "Charlotte Forty Niners",
-					"state": "Wyoming"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "WKU",
@@ -4955,7 +4955,7 @@
 						"contractYear": "0"
 					},
 					"name": "Western Kentucky Hilltoppers",
-					"state": "Wyoming"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "FIU",
@@ -5006,7 +5006,7 @@
 						"contractYear": "0"
 					},
 					"name": "FIU Panthers",
-					"state": "Wyoming"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "UTSA",
@@ -5057,7 +5057,7 @@
 						"contractYear": "0"
 					},
 					"name": "UTSA Roadrunners",
-					"state": "Wyoming"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "SMS",
@@ -5108,7 +5108,7 @@
 						"contractYear": "0"
 					},
 					"name": "Southern Miss Golden Eagles",
-					"state": "Wyoming"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "MTSU",
@@ -5159,7 +5159,7 @@
 						"contractYear": "0"
 					},
 					"name": "Middle Tennessee State Blue Raiders",
-					"state": "Wyoming"
+					"state": "Alaska"
 				}
 			],
 			"confFullName": "Conference USA",
@@ -5732,7 +5732,7 @@
 						"contractYear": "0"
 					},
 					"name": "Central Michigan Chippewas",
-					"state": "American Samoa"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "BUFF",
@@ -5783,7 +5783,7 @@
 						"contractYear": "0"
 					},
 					"name": "Buffalo Bulls",
-					"state": "American Samoa"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "TOL",
@@ -5834,7 +5834,7 @@
 						"contractYear": "0"
 					},
 					"name": "Toledo Rockets",
-					"state": "American Samoa"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "WMU",
@@ -5885,7 +5885,7 @@
 						"contractYear": "0"
 					},
 					"name": "Western Michigan Broncos",
-					"state": "American Samoa"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "OHIO",
@@ -5936,7 +5936,7 @@
 						"contractYear": "0"
 					},
 					"name": "Ohio Bobcats",
-					"state": "American Samoa"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "MU",
@@ -5987,7 +5987,7 @@
 						"contractYear": "0"
 					},
 					"name": "Miami OH Redhawks",
-					"state": "American Samoa"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "BALL",
@@ -6038,7 +6038,7 @@
 						"contractYear": "0"
 					},
 					"name": "Ball State Cardinals",
-					"state": "American Samoa"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "EMU",
@@ -6089,7 +6089,7 @@
 						"contractYear": "0"
 					},
 					"name": "Eastern Michigan Eagles",
-					"state": "American Samoa"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "Akron",
@@ -6140,7 +6140,7 @@
 						"contractYear": "0"
 					},
 					"name": "Akron Zips",
-					"state": "American Samoa"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "BGU",
@@ -6191,7 +6191,7 @@
 						"contractYear": "0"
 					},
 					"name": "Bowling Green Falcons",
-					"state": "American Samoa"
+					"state": "Alaska"
 				}
 			],
 			"confFullName": "Mid American Conference",
