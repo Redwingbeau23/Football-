@@ -6144,7 +6144,7 @@
 				},
 				{
 					"abbreviation": "BGU",
-					"prestige": "15",
+					"prestige": "1",
 					"hexColor": "#FE5000",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -6195,7 +6195,7 @@
 				}
 			],
 			"confFullName": "Mid American Conference",
-			"confPrestige": "15",
+			"confPrestige": "1",
 			"confName": "MAC"
 		}
 	],
