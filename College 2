@@ -308,7 +308,7 @@
 				},
 				{
 					"abbreviation": "MISS",
-					"prestige": "95",
+					"prestige": "88",
 					"hexColor": "#14213D",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3308,7 +3308,7 @@
 				},
 				{
 					"abbreviation": "CIN",
-					"prestige": "45",
+					"prestige": "50",
 					"hexColor": "#000000",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3359,7 +3359,7 @@
 				},
 				{
 					"abbreviation": "SMU",
-					"prestige": "45",
+					"prestige": "46",
 					"hexColor": "#C8102E",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3411,7 +3411,7 @@
 
 				{
 					"abbreviation": "CUSE",
-					"prestige": "54",
+					"prestige": "50",
 					"hexColor": "#D44500",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3462,7 +3462,7 @@
 				},
 				{
 					"abbreviation": "RUT",
-					"prestige": "48",
+					"prestige": "46",
 					"hexColor": "#CC0033",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3513,7 +3513,7 @@
 				},
 				{
 					"abbreviation": "BC",
-					"prestige": "52",
+					"prestige": "47",
 					"hexColor": "#98002E",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -6144,7 +6144,7 @@
 				},
 				{
 					"abbreviation": "BGU",
-					"prestige": "15",
+					"prestige": "25",
 					"hexColor": "#FE5000",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -6195,7 +6195,7 @@
 				}
 			],
 			"confFullName": "Mid American Conference",
-			"confPrestige": "15",
+			"confPrestige": "25",
 			"confName": "MAC"
 		}
 	],
