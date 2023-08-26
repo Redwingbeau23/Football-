@@ -671,7 +671,7 @@
 				},
 				{
 					"abbreviation": "WISC",
-					"prestige": "56",
+					"prestige": "55",
 					"hexColor": "#C5050C",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3359,7 +3359,7 @@
 				},
 				{
 					"abbreviation": "SMU",
-					"prestige": "46",
+					"prestige": "42",
 					"hexColor": "#C8102E",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3462,7 +3462,7 @@
 				},
 				{
 					"abbreviation": "RUT",
-					"prestige": "46",
+					"prestige": "40",
 					"hexColor": "#CC0033",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3513,7 +3513,7 @@
 				},
 				{
 					"abbreviation": "BC",
-					"prestige": "47",
+					"prestige": "40",
 					"hexColor": "#98002E",
 					"offCoordinator": {
 						"contractLength": "3",
