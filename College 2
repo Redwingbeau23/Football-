@@ -4188,7 +4188,7 @@
 				},
 				{
 					"abbreviation": "BYU",
-					"prestige": "57",
+					"prestige": "50",
 					"hexColor": "#002E5D",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4239,7 +4239,7 @@
 				},
 				{
 					"abbreviation": "UCF",
-					"prestige": "57",
+					"prestige": "50",
 					"hexColor": "#BA9B37",
 					"offCoordinator": {
 						"contractLength": "3",
