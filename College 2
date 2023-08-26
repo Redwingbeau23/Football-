@@ -1441,7 +1441,7 @@
 					"state": "Utah"
 				},
 				{
-					"abbreviation": "UL",
+					"abbreviation": "LOU",
 					"prestige": "50",
 					"hexColor": "#AD0000",
 					"offCoordinator": {
@@ -1492,7 +1492,7 @@
 					"state": "Kentucky"
 				},
 				{
-					"abbreviation": "KU",
+					"abbreviation": "KAN",
 					"prestige": "50",
 					"hexColor": "#0051BA",
 					"offCoordinator": {
@@ -1549,7 +1549,7 @@
 		},
 		{
 			"confTeams": [{
-					"abbreviation": "UT",
+					"abbreviation": "TEX",
 					"prestige": "95",
 					"hexColor": "#BF5700",
 					"offCoordinator": {
@@ -1804,7 +1804,7 @@
 					"state": "Florida"
 				},
 				{
-					"abbreviation": "UM",
+					"abbreviation": "MIA",
 					"prestige": "85",
 					"hexColor": "#005030",
 					"offCoordinator": {
