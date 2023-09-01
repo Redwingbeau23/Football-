@@ -3102,7 +3102,7 @@
 		{
 			"confTeams": [{
 					"abbreviation": "HOU",
-					"prestige": "45",
+					"prestige": "40",
 					"hexColor": "#C8102E",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3149,7 +3149,7 @@
 						"contractYear": "0"
 					},
 					"name": "Houston Cougars",
-					"state": "Texas"
+					"state": "Alaska"
 				},
 {
 					"abbreviation": "UTEP",
@@ -3206,7 +3206,7 @@
 				
 				{
 					"abbreviation": "CSU",
-					"prestige": "40",
+					"prestige": "35",
 					"hexColor": "#1E4D2B",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3308,7 +3308,7 @@
 				},
 				{
 					"abbreviation": "CIN",
-					"prestige": "50",
+					"prestige": "40",
 					"hexColor": "#000000",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3355,11 +3355,11 @@
 						"contractYear": "0"
 					},
 					"name": "Cincinnati Bearcats",
-					"state": "Ohio"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "SMU",
-					"prestige": "42",
+					"prestige": "37",
 					"hexColor": "#C8102E",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3406,12 +3406,12 @@
 						"contractYear": "0"
 					},
 					"name": "SMU Mustangs",
-					"state": "Texas"
+					"state": "Alaska"
 				},
 
 				{
 					"abbreviation": "CUSE",
-					"prestige": "50",
+					"prestige": "45",
 					"hexColor": "#D44500",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3458,11 +3458,11 @@
 						"contractYear": "0"
 					},
 					"name": "Syracuse Orange",
-					"state": "New York"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "RUT",
-					"prestige": "40",
+					"prestige": "35",
 					"hexColor": "#CC0033",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3509,11 +3509,11 @@
 						"contractYear": "0"
 					},
 					"name": "Rutgers Scarlet Knights",
-					"state": "New Jersey"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "BC",
-					"prestige": "40",
+					"prestige": "36",
 					"hexColor": "#98002E",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3560,11 +3560,11 @@
 						"contractYear": "0"
 					},
 					"name": "Boston College Eagles",
-					"state": "Massachusetts"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "USF",
-					"prestige": "35",
+					"prestige": "30",
 					"hexColor": "#006747",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3621,7 +3621,7 @@
 		{
 			"confTeams": [{
 					"abbreviation": "BSU",
-					"prestige": "45",
+					"prestige": "38",
 					"hexColor": "#0033A0",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3672,7 +3672,7 @@
 				},
 				{
 					"abbreviation": "FRES",
-					"prestige": "40",
+					"prestige": "35",
 					"hexColor": "#DB0032",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3723,7 +3723,7 @@
 				},
 				{
 					"abbreviation": "SDSU",
-					"prestige": "45",
+					"prestige": "38",
 					"hexColor": "#A6192E",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3825,7 +3825,7 @@
 				},
 				{
 					"abbreviation": "WYO",
-					"prestige": "35",
+					"prestige": "30",
 					"hexColor": "#492F24",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3876,7 +3876,7 @@
 				},
 				{
 					"abbreviation": "HAW",
-					"prestige": "35",
+					"prestige": "30",
 					"hexColor": "#024731",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3927,7 +3927,7 @@
 				},
 				{
 					"abbreviation": "SJSU",
-					"prestige": "35",
+					"prestige": "30",
 					"hexColor": "#0055A2",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3978,7 +3978,7 @@
 				},
 				{
 					"abbreviation": "NEV",
-					"prestige": "38",
+					"prestige": "32",
 					"hexColor": "#003366",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4029,7 +4029,7 @@
 				},
 				{
 					"abbreviation": "NMU",
-					"prestige": "35",
+					"prestige": "30",
 					"hexColor": "#BA0C2F",
 					"offCoordinator": {
 						"contractLength": "1",
@@ -4080,7 +4080,7 @@
 				},
 				{
 					"abbreviation": "UNLV",
-					"prestige": "35",
+					"prestige": "32",
 					"hexColor": "#CF0A2C",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4137,7 +4137,7 @@
 		{
 			"confTeams": [{
 					"abbreviation": "TLSA",
-					"prestige": "40",
+					"prestige": "35",
 					"hexColor": "#002D72",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4188,7 +4188,7 @@
 				},
 				{
 					"abbreviation": "BYU",
-					"prestige": "50",
+					"prestige": "45",
 					"hexColor": "#002E5D",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4235,11 +4235,11 @@
 						"contractYear": "0"
 					},
 					"name": "BYU Cougars",
-					"state": "Utah"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "UCF",
-					"prestige": "50",
+					"prestige": "45",
 					"hexColor": "#BA9B37",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4286,11 +4286,11 @@
 						"contractYear": "0"
 					},
 					"name": "UCF Knights",
-					"state": "Florida"
+					"state": "Alaska"
 				},
 				{
 					"abbreviation": "MEMP",
-					"prestige": "45",
+					"prestige": "38",
 					"hexColor": "#003087",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4341,7 +4341,7 @@
 				},
 				{
 					"abbreviation": "ARMY",
-					"prestige": "40",
+					"prestige": "35",
 					"hexColor": "#000000",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4392,7 +4392,7 @@
 				},
 				{
 					"abbreviation": "NAVY",
-					"prestige": "40",
+					"prestige": "35",
 					"hexColor": "#00205B",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4443,7 +4443,7 @@
 				},
 				{
 					"abbreviation": "AFA",
-					"prestige": "40",
+					"prestige": "35",
 					"hexColor": "#00308F",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4494,7 +4494,7 @@
 				},
 				{
 					"abbreviation": "USU",
-					"prestige": "40",
+					"prestige": "35",
 					"hexColor": "#0F2439",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4545,7 +4545,7 @@
 				},
 				{
 					"abbreviation": "TLNE",
-					"prestige": "45",
+					"prestige": "43",
 					"hexColor": "#006747",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4596,7 +4596,7 @@
 				},
 				{
 					"abbreviation": "ECU",
-					"prestige": "40",
+					"prestige": "35",
 					"hexColor": "#592A8A",
 					"offCoordinator": {
 						"contractLength": "3",
