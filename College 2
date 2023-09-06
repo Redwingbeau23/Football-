@@ -2735,7 +2735,7 @@
 				},
 				{
 					"abbreviation": "WAKE",
-					"prestige": "40",
+					"prestige": "45",
 					"hexColor": "#9E7E38",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2839,7 +2839,7 @@
 				
 				{
 					"abbreviation": "SCAR",
-					"prestige": "40",
+					"prestige": "45",
 					"hexColor": "#73000A",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2941,7 +2941,7 @@
 				},
 				{
 					"abbreviation": "NCST",
-					"prestige": "40",
+					"prestige": "45",
 					"hexColor": "#CC0000",
 					"offCoordinator": {
 						"contractLength": "3",
