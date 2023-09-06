@@ -1289,7 +1289,7 @@
 				},
 				{
 					"abbreviation": "CU",
-					"prestige": "40",
+					"prestige": "45",
 					"hexColor": "#CFB87C",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1601,7 +1601,7 @@
 				},
 				{
 					"abbreviation": "TAMU",
-					"prestige": "80",
+					"prestige": "85",
 					"hexColor": "#500000",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2474,7 +2474,7 @@
 				},
 				{
 					"abbreviation": "UCLA",
-					"prestige": "80",
+					"prestige": "85",
 					"hexColor": "#2D68C4",
 					"offCoordinator": {
 						"contractLength": "3",
