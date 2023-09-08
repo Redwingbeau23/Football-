@@ -519,7 +519,7 @@
 			"confTeams": [{
 					"abbreviation": "MICH",
 					"prestige": "95",
-					"hexColor": "#00274C",
+					"hexColor": "#FFCB05",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
