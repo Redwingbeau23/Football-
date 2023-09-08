@@ -926,7 +926,7 @@
 				},
 				{
 					"abbreviation": "NW",
-					"prestige": "35",
+					"prestige": "30",
 					"hexColor": "#4E2A84",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2890,7 +2890,7 @@
 				},
 				{
 					"abbreviation": "UVA",
-					"prestige": "35",
+					"prestige": "30",
 					"hexColor": "#232D4B",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3462,7 +3462,7 @@
 				},
 				{
 					"abbreviation": "RUT",
-					"prestige": "35",
+					"prestige": "30",
 					"hexColor": "#CC0033",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3513,7 +3513,7 @@
 				},
 				{
 					"abbreviation": "BC",
-					"prestige": "35",
+					"prestige": "30",
 					"hexColor": "#98002E",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4012,7 +4012,7 @@
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2022",
-						"age": "35",
+						"age": "30",
 						"ratOff": "60",
 						"cumulativePrestige": "0",
 						"ratDef": "60",
@@ -4085,7 +4085,7 @@
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
-						"age": "35",
+						"age": "30",
 						"cumulativePrestige": "0",
 						"homeState": "Rhode Island",
 						"ratPot": "60",
@@ -4099,7 +4099,7 @@
 					"defCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
-						"age": "35",
+						"age": "30",
 						"cumulativePrestige": "0",
 						"homeState": "California",
 						"ratPot": "60",
@@ -4290,7 +4290,7 @@
 				},
 				{
 					"abbreviation": "MEMP",
-					"prestige": "35",
+					"prestige": "30",
 					"hexColor": "#003087",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4346,7 +4346,7 @@
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
-						"age": "35",
+						"age": "30",
 						"cumulativePrestige": "0",
 						"homeState": "Georgia",
 						"ratPot": "57",
@@ -4545,7 +4545,7 @@
 				},
 				{
 					"abbreviation": "TLNE",
-					"prestige": "35",
+					"prestige": "30",
 					"hexColor": "#006747",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -5305,7 +5305,7 @@
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2022",
-						"age": "35",
+						"age": "30",
 						"ratOff": "25",
 						"cumulativePrestige": "0",
 						"ratDef": "25",
@@ -5857,7 +5857,7 @@
 					"defCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
-						"age": "35",
+						"age": "30",
 						"cumulativePrestige": "0",
 						"homeState": "Oregon",
 						"ratPot": "25",
@@ -5908,7 +5908,7 @@
 					"defCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
-						"age": "35",
+						"age": "30",
 						"cumulativePrestige": "0",
 						"homeState": "Missouri",
 						"ratPot": "25",
