@@ -309,7 +309,7 @@
 				{
 					"abbreviation": "MISS",
 					"prestige": "84",
-					"hexColor": "#14213D",
+					"hexColor": "#006BA6",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
@@ -2067,7 +2067,7 @@
 			"confTeams": [{
 					"abbreviation": "ORE",
 					"prestige": "95",
-					"hexColor": "#154733",
+					"hexColor": "#007935",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
@@ -2475,7 +2475,7 @@
 				{
 					"abbreviation": "UCLA",
 					"prestige": "89",
-					"hexColor": "#2D68C4",
+					"hexColor": "#2774AE",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
@@ -2634,7 +2634,7 @@
 				{
 					"abbreviation": "ND",
 					"prestige": "95",
-					"hexColor": "#C99660",
+					"hexColor": "#C99700",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
