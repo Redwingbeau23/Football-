@@ -1551,7 +1551,7 @@
 			"confTeams": [{
 					"abbreviation": "TEX",
 					"prestige": "95",
-					"hexColor": "#BF5660",
+					"hexColor": "#BF5700",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
